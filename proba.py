@@ -6,7 +6,7 @@ import string
 path = input("If you want to show the path of yours CSV source file, write it down. If you want to use default source file, click ENTER")
 
 if path== "":
-    path='/home/ewelina/Documents/Python/vscode/ludnosc.csv'
+    path='.letters/ludnosc.csv'
 
 #source file
 csvfile = pd.read_csv(path, sep=',', encoding='utf-8')
