@@ -6,7 +6,7 @@ sum of all num columns according to 1st letter of name column
 * [Technologies](#technologies)
 
 
-##General ingo
+##General info
 This project sum all numeric columns according to first letters of name column.
 
 ##Technologies
